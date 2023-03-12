@@ -1,4 +1,4 @@
-### Features
+### Pipeline
 
 - Data Wrangling
 - Exploratory Data Analysis
